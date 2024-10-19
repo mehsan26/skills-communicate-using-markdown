@@ -14,3 +14,6 @@ int a = 5
 int b = 10
 int c = a + b
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
